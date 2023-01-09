@@ -9,7 +9,7 @@
 
 ## Hard Skills and Soft-Skills
 
-<img height="500" src="./assets/Skills.png" />
+<img height="700" src="./assets/Skills.png" />
 
 ## Contact Me
 
