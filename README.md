@@ -1,4 +1,4 @@
-<img height="200" src="./assets/busy-cute.gif" />
+<img height="300" src="./assets/busy-cute.gif" />
 
 ### 👋 Hi, I’m @AntonelaRodriguez
 - My name is Antonela Belen Rodriguez and I'm Full Stack Developer 🚀
@@ -9,7 +9,7 @@
 
 ## Hard Skills and Soft-Skills
 
-<img src="./assets/Skills.png" />
+<img height="50" src="./assets/Skills.png" />
 
 ## Contact Me
 
