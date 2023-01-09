@@ -1,4 +1,4 @@
-<img height="150" src="./assets/busy-cute.gif" />
+<img height="200" src="./assets/busy-cute.gif" />
 
 ### 👋 Hi, I’m @AntonelaRodriguez
 - My name is Antonela Belen Rodriguez and I'm Full Stack Developer 🚀
