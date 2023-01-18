@@ -38,6 +38,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AntonelaRodriguez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonelarodriguez&show_icons=true&locale=en&layout=compact" alt="antonelarodriguez" /></p>
 
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonelarodriguez&show_icons=true&locale=en" alt="antonelarodriguez" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonelarodriguez&" alt="antonelarodriguez" /></p>
+ 
