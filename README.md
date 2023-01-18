@@ -15,7 +15,9 @@
 
 ## Hard Skills and Soft-Skills
 
+<div align="center">
 <img height="700" src="./assets/Skills.png" />
+</div>
 
 <br/>  
 
@@ -39,4 +41,6 @@
 
 ## Github Stats  
 
+<div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonelarodriguez&show_icons=true&locale=en" alt="antonelarodriguez" /></p>
+</div>
