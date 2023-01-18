@@ -38,9 +38,5 @@
 
 
 ## Github Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonelarodriguez&show_icons=true&locale=en&layout=compact" alt="antonelarodriguez" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonelarodriguez&show_icons=true&locale=en" alt="antonelarodriguez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonelarodriguez&" alt="antonelarodriguez" /></p>
- 
