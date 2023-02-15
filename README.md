@@ -1,5 +1,5 @@
 <div align="center">
-<img height="300" src="./assets/01d7176e77aebf3b461562899efcf47f.gif" />
+<img height="300" src="./assets/Black%20Colorful%20Simple%20Futuristic%20Linkedin%20Banner.png" />
 </div>
 
 <br/>
