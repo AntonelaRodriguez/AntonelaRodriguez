@@ -6,8 +6,7 @@
 
 ## 👋 Hi, I’m @AntonelaRodriguez
 - My name is Antonela Belen Rodriguez and I'm Full Stack Developer 🚀
-- 🧠 I'm currently interested on start working in the industry.
-- 🔭 I recently finished my final project to finish Henry Bootcamp.
+- 🧠 I'm currently interested on growing in the industry.
 - 📫 How to reach me on Email at [Antonela Rodriguez](mailto:antonelabelenrodriguez@gmail.com) 
 - My portfolio [here](https://portfolio-web-lemon.vercel.app/) 
 
